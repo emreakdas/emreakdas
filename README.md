@@ -1,2 +1,2 @@
 ### Hi there 👋
-#### `npx emreakdas`
+### `👋 Hello, I'm Emre`
